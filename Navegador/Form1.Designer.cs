@@ -71,8 +71,8 @@
             // tableLayoutPanel3
             // 
             this.tableLayoutPanel3.ColumnCount = 2;
-            this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 16.14518F));
-            this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 83.85482F));
+            this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 16.95364F));
+            this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 83.04636F));
             this.tableLayoutPanel3.Controls.Add(this.toolStrip1, 0, 0);
             this.tableLayoutPanel3.Controls.Add(this.TxtIr, 1, 0);
             this.tableLayoutPanel3.Dock = System.Windows.Forms.DockStyle.Fill;
@@ -94,7 +94,7 @@
             this.BtnBusqueda});
             this.toolStrip1.Location = new System.Drawing.Point(0, 0);
             this.toolStrip1.Name = "toolStrip1";
-            this.toolStrip1.Size = new System.Drawing.Size(121, 40);
+            this.toolStrip1.Size = new System.Drawing.Size(127, 40);
             this.toolStrip1.TabIndex = 8;
             this.toolStrip1.Text = "toolStrip1";
             // 
@@ -151,9 +151,9 @@
             // TxtIr
             // 
             this.TxtIr.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.TxtIr.Location = new System.Drawing.Point(124, 17);
+            this.TxtIr.Location = new System.Drawing.Point(130, 17);
             this.TxtIr.Name = "TxtIr";
-            this.TxtIr.Size = new System.Drawing.Size(628, 20);
+            this.TxtIr.Size = new System.Drawing.Size(622, 20);
             this.TxtIr.TabIndex = 9;
             this.TxtIr.Click += new System.EventHandler(this.TxtIr_Click_1);
             this.TxtIr.Leave += new System.EventHandler(this.TxtIr_Leave_1);
